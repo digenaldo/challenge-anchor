@@ -1,0 +1,13 @@
+<div metal:use-macro="layout">
+    <div metal:fill-slot="content">
+	    <h5 class="collapsible">Upload File</h5>
+	    <div>
+	        <form method="post" action="/uploadFile" enctype="multipart/form-data">
+	        	<input type="file" name="file" />
+	  	        <button type="submit" name="Upload" value="submit">Upload</button>
+	        </form>
+	    </div>
+	    <h5 class="collapsible">Result</h5>
+	    <div>${content}</div>
+    </div>
+</div>
