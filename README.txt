@@ -26,7 +26,7 @@ In the root directory of the project, simply run:
 
 $ pserve development.ini
 
-Attention! The file (coins.txt) test is to send in the project root.
+Attention! The test file (coins.txt) for submission is the project root.
 
 After running the application, simply upload the file.
 
