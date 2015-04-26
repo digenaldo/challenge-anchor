@@ -1,3 +1,11 @@
+This is an application that uses a Python web development framework "full-stack" consists of the following packages:
+
+Pyramid
+  A small, fast, down-to-earth Python web framework.
+
+Deform
+  Is a Python HTML form generation library.
+
 Getting Started
 
 Environment Setup
